@@ -23,19 +23,6 @@ The goal of this portfolio is to create a **strong digital presence** for recrui
 
 ---
 
-## 🖥️ UI Preview
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/YOUR-IMAGE-ID" 
-       alt="Portfolio UI Preview" 
-       width="900"
-       style="border-radius: 12px; box-shadow: 0 6px 25px rgba(0,0,0,0.2);" />
-</div>
-
-> 💡 Replace `YOUR-IMAGE-ID` with your actual GitHub image link
-
----
-
 ## ✨ Features
 
 | Feature         | Description                        |
